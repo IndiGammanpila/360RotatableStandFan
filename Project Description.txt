@@ -1,0 +1,4 @@
+This stand fan can rotate at 90, 180, 270 and 360 degrees. 
+This fan can provide efficient and widespread cooling in a room or a large space.
+We used an Arduino Uno board as the microcontroller for the project. 
+ 
